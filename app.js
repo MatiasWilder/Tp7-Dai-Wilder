@@ -27,7 +27,10 @@ const App = () => {
 };
 
 const styles = StyleSheet.create({
-
+backgruondImage: {
+    flex: 1,
+    justifyContent: 'center',
+}
 
 })
 
